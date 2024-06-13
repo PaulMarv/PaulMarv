@@ -18,7 +18,7 @@
 🧔‍♂️ About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <div>
 
-- :seedling: I’m working as a Software Engineer and contributing to web and mobile applications.
+- :seedling: I’m working as a Software Developer, contributing to web and mobile applications.
 - ✍️ Exploring Technical Content Writing.
 - 🤾‍♂️ In my free time, I watch movies.
   </div>
