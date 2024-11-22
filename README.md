@@ -18,7 +18,8 @@
 🧔‍♂️ About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <div>
 
-- :seedling: I’m working as a Software Developer, contributing to web and mobile applications.
+- :seedling: Frontend Engineer with 4 years of experience specializing in developing user-focused web applications. Proven expertise in migrating legacy JavaScript codebases to TypeScript, integrating and managing payment solutions, and optimizing application performance. Skilled in error management and improving code quality to enhance user experience. Experienced in leading small teams and collaborating effectively to achieve project goals.
+
 - ✍️ Exploring Technical Content Writing.
 - 🤾‍♂️ In my free time, I watch movies.
   </div>
